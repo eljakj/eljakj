@@ -56,10 +56,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadElJakhlab&show_icons=true&theme=tokyonight" alt="Jad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eljakj&show_icons=true&theme=tokyonight" alt="Jad's GitHub stats" />
 </p>  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadElJakhlab&theme=tokyonight" alt="Jad's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljakj&theme=tokyonight" alt="Jad's streak stats" />
 </p>  
 
 ---
